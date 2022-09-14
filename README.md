@@ -6,7 +6,9 @@ An improved prediction model of protein and peptide toxicity by integrating chan
 - Python 3
 - Pytorch: https://pytorch.org/
 
-### Prediction step-by-step:
+### Final models are released at https://drive.google.com/drive/folders/17IALMnlgiYp00kbHmuOKyu99q3v1X0nd?usp=sharing.
+
+### Step-by-step for re-training:
 ### Training
 Use "model_training.py" file to train models
 - *python model_training.py*
